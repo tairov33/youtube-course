@@ -1,9 +1,12 @@
+import classNames from 'classnames'
 import React from 'react'
 import classes from './Container.module.scss'
 
-const Container = () => {
+const Container = ({className, children}) => {
   return (
-    <div className={classes['container']} >Container</div>
+    <div className={classNames(classes['container'], className)}>
+      {children}
+    </div>
   )
 }
 
