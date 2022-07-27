@@ -1,12 +1,11 @@
-
 {
-  "discounts": [{
+  "discounts": [
+    {
       "id": 0,
       "name": "Basket No 1",
       "category": "flowers",
       "images": [
-        "https://toshkentgullari.uz/thumb/2/27vEFLnhhAasXn51U4ij7Q/400r400/d/img_0105.jpg",
-        "https://toshkentgullari.uz/d/img_0107_2.jpg"
+        "https://cvety-nadym.ru/assets/cache_image/products/536/1491-1346_278x278_f02.jpg"
       ],
       "price": 50,
       "discount": 100
@@ -16,7 +15,7 @@
       "name": "Fruit Cart No 3",
       "category": "fruits",
       "images": [
-        "http://cdn.shopify.com/s/files/1/1507/9940/products/Deluxe-Fruit-Basket-10-Types-of-Fruits-Fruit-Basket_1200x1200.jpg?v=1634579686"
+        "https://static.winestreet.ru/off-line/goods_file/103883/file_S.jpg"
       ],
       "price": 7000,
       "discount": 4000
@@ -26,7 +25,7 @@
       "name": "Basket No 2",
       "category": "flowers",
       "images": [
-        "https://toshkentgullari.uz/thumb/2/v5yws9Qo8yUwrslJ8T1Rlw/400r400/d/img_0061_2.jpg"
+        "https://cveti-ul.ru/assets/cache_image/products/237/s1200_278x278_51e.jpg"
       ],
       "price": 150,
       "discount": 200
@@ -36,8 +35,7 @@
       "name": "Basket No 3",
       "category": "flowers",
       "images": [
-        "https://toshkentgullari.uz/thumb/2/bcq_weLLp_Y7KRshIYShcw/400r400/d/img_8174.jpg",
-        "https://toshkentgullari.uz/thumb/2/F_bfRRbLjmWtyIEDV5McOA/400r400/d/img_8175.jpg"
+        "https://cvety-nadym.ru/assets/cache_image/products/435/21-01-15-10-07-06-008-deco_278x278_f02.jpg"
       ],
       "price": 120,
       "discount": 150
@@ -47,8 +45,7 @@
       "name": "Basket No 4",
       "category": "flowers",
       "images": [
-        "https://toshkentgullari.uz/thumb/2/jTsCcZtlM6PLQx-fqtiMbA/400r400/d/img_8933.jpg",
-        "https://toshkentgullari.uz/thumb/2/_JklaBmhVedLegUrFihykA/400r400/d/img_8934.jpg"
+        "https://cvety-nvkz.ru/assets/cache_image/products/688/frame-27-(34)_278x278_51e.jpg"
       ],
       "price": 200,
       "discount": 300
@@ -58,19 +55,19 @@
       "name": "Balloon No 4",
       "category": "balloons",
       "images": [
-        "https://m.media-amazon.com/images/I/51QliHi9pqL._AC_SL1000_.jpg"
+        "https://mh24.ee/16732-home_default/balloons-with-confetti-transparent-d-23-cm-round-4pcs.jpg"
       ],
       "price": 7000,
       "discount": 4000
     }
   ],
-  "products": [{
+  "products": [
+    {
       "id": 0,
       "name": "Basket No 1",
       "category": "flowers",
       "images": [
-        "https://toshkentgullari.uz/thumb/2/27vEFLnhhAasXn51U4ij7Q/400r400/d/img_0105.jpg",
-        "https://toshkentgullari.uz/d/img_0107_2.jpg"
+        "https://cvety-nadym.ru/assets/cache_image/products/536/1491-1346_278x278_f02.jpg"
       ],
       "price": 50,
       "discount": 100
@@ -80,7 +77,7 @@
       "name": "Basket No 2",
       "category": "flowers",
       "images": [
-        "https://toshkentgullari.uz/thumb/2/v5yws9Qo8yUwrslJ8T1Rlw/400r400/d/img_0061_2.jpg"
+        "https://cveti-ul.ru/assets/cache_image/products/237/s1200_278x278_51e.jpg"
       ],
       "price": 150,
       "discount": 200
@@ -90,8 +87,7 @@
       "name": "Basket No 3",
       "category": "flowers",
       "images": [
-        "https://toshkentgullari.uz/thumb/2/bcq_weLLp_Y7KRshIYShcw/400r400/d/img_8174.jpg",
-        "https://toshkentgullari.uz/thumb/2/F_bfRRbLjmWtyIEDV5McOA/400r400/d/img_8175.jpg"
+        "https://cvety-nadym.ru/assets/cache_image/products/435/21-01-15-10-07-06-008-deco_278x278_f02.jpg"
       ],
       "price": 120,
       "discount": 150
@@ -101,8 +97,7 @@
       "name": "Basket No 4",
       "category": "flowers",
       "images": [
-        "https://toshkentgullari.uz/thumb/2/jTsCcZtlM6PLQx-fqtiMbA/400r400/d/img_8933.jpg",
-        "https://toshkentgullari.uz/thumb/2/_JklaBmhVedLegUrFihykA/400r400/d/img_8934.jpg"
+        "https://cvety-nvkz.ru/assets/cache_image/products/688/frame-27-(34)_278x278_51e.jpg"
       ],
       "price": 200,
       "discount": 300
@@ -112,7 +107,7 @@
       "name": "Indian mithais",
       "category": "sweets",
       "images": [
-        "https://static.toiimg.com/photo/87304656.cms"
+        "https://avatars.mds.yandex.net/i?id=d5118e078d1e16ce56b99a7c02308fde-4054771-images-thumbs&n=13"
       ],
       "price": 400,
       "discount": 500
@@ -122,7 +117,7 @@
       "name": "Suaad sweets",
       "category": "sweets",
       "images": [
-        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhvkfk6AoRbQfHu_2ihHsu2k3PRI77DbPHIipnGVOdU_NcJfNUTvUt7DYuWzJo-YuBE0c&usqp=CAU"
+        "https://static.winestreet.ru/off-line/goods_file/101210/file_S.jpg"
       ],
       "price": 90000
     },
@@ -131,7 +126,7 @@
       "name": "Mishti",
       "category": "sweets",
       "images": [
-        "https://www.tasteofhome.com/wp-content/uploads/2020/09/pakistani-mithai-506731275.jpg?fit=700,800"
+        "https://americandreammarket.com/10727-home_default/hubba-bubba-snappy-strawberry-mega-long.jpg"
       ],
       "price": 70000,
       "discount": 40000
@@ -141,7 +136,7 @@
       "name": "Halva",
       "category": "sweets",
       "images": [
-        "https://www.oyorooms.com/blog/wp-content/uploads/2018/07/shutterstock_725231338.jpg"
+        "https://www.novodistribuciones.com/112663-home_default/chucheria-para-comunion-detalles-personalizados.jpg"
       ],
       "price": 70000,
       "discount": 40000
@@ -151,7 +146,7 @@
       "name": "Balloon No 1",
       "category": "balloons",
       "images": [
-        "https://partycity6.scene7.com/is/image/PartyCity/_pdp_sq_?$_500x500_$&$product=PartyCity/909620"
+        "https://avatars.mds.yandex.net/i?id=8527d79522023fc3a3422cfa68d797a3-4885183-images-thumbs&n=13"
       ],
       "price": 7000,
       "discount": 4000
@@ -161,7 +156,7 @@
       "name": "Balloon No 2",
       "category": "balloons",
       "images": [
-        "https://media.istockphoto.com/vectors/blue-balloon-on-white-background-vector-id897005126?k=20&m=897005126&s=170667a&w=0&h=gHVlulVn07oGLsqsqTAtz14IhKUf1xopuS4VdmKQ0Cs="
+        "https://avatars.mds.yandex.net/i?id=eb75b1ab7741545b2170b070cd4c9d5a-5859290-images-thumbs&n=13"
       ],
       "price": 7000,
       "discount": 4000
@@ -171,7 +166,7 @@
       "name": "Balloon No 3",
       "category": "balloons",
       "images": [
-        "https://media.istockphoto.com/photos/yellow-party-balloon-isolated-on-white-picture-id182732883?k=20&m=182732883&s=170667a&w=0&h=gXmqbPxxP1B7ZbtmacBOV73O4Oip1dROZirbA4cowEM="
+        "https://avatars.mds.yandex.net/i?id=934251fcc5151db8d9e22532ef69261b-5233284-images-thumbs&n=13"
       ],
       "price": 7000,
       "discount": 4000
@@ -181,7 +176,7 @@
       "name": "Balloon No 4",
       "category": "balloons",
       "images": [
-        "https://m.media-amazon.com/images/I/51QliHi9pqL._AC_SL1000_.jpg"
+        "https://mh24.ee/16732-home_default/balloons-with-confetti-transparent-d-23-cm-round-4pcs.jpg"
       ],
       "price": 7000,
       "discount": 4000
@@ -191,7 +186,7 @@
       "name": "Fruit Cart No 1",
       "category": "fruits",
       "images": [
-        "https://fyf.tac-cdn.net/images/products/large/FYF-870.jpg?auto=webp&quality=60&width=690"
+        "https://avatars.mds.yandex.net/i?id=c89e8299ae29c0b919dbb0321412b76f-5234574-images-thumbs&n=13"
       ],
       "price": 7000,
       "discount": 4000
@@ -201,7 +196,7 @@
       "name": "Fruit Cart No 2",
       "category": "fruits",
       "images": [
-        "https://www.ubuy.vn/productimg/?image=aHR0cHM6Ly9tLm1lZGlhLWFtYXpvbi5jb20vaW1hZ2VzL0kvODFZWmU2eW1pMkwuX1NMMTUwMF8uanBn.jpg"
+        "https://storage.nana-music.com/picture/5363063-dfd118d5-873d-4fcd-bea7-96d83e07b232-large.png"
       ],
       "price": 7000,
       "discount": 4000
@@ -211,7 +206,7 @@
       "name": "Fruit Cart No 3",
       "category": "fruits",
       "images": [
-        "http://cdn.shopify.com/s/files/1/1507/9940/products/Deluxe-Fruit-Basket-10-Types-of-Fruits-Fruit-Basket_1200x1200.jpg?v=1634579686"
+        "https://static.winestreet.ru/off-line/goods_file/103883/file_S.jpg"
       ],
       "price": 7000,
       "discount": 4000
@@ -221,7 +216,7 @@
       "name": "Fruit Cart No 4",
       "category": "fruits",
       "images": [
-        "https://thumbs.dreamstime.com/z/fruit-basket-18329115.jpg"
+        "https://www.hyperbaskets.com/wp-content/uploads/2020/11/nadan-egss.jpg"
       ],
       "price": 7000,
       "discount": 4000
@@ -231,7 +226,7 @@
       "name": "Indoor Plant No 1",
       "category": "plants",
       "images": [
-        "https://www.gardendesign.com/pictures/images/900x705Max/dream-team-s-portland-garden_6/chinese-evergreen-plant-aglaonema-shutterstock-com_15962.jpg"
+        "https://dachnichek.ru/wp-content/uploads/2020/12/czvetochnye-gorshki-23-278x278.jpg"
       ],
       "price": 7000,
       "discount": 4000
@@ -241,7 +236,7 @@
       "name": "Indoor Plant No 2",
       "category": "plants",
       "images": [
-        "https://empire-s3-production.bobvila.com/slides/34358/vertical_slide_wide/snake-plant.jpg?1572459883"
+        "https://i.pinimg.com/736x/26/b9/12/26b91270e44b0b35104a1331f4486b38.jpg"
       ],
       "price": 7000,
       "discount": 4000
@@ -251,7 +246,7 @@
       "name": "Indoor Plant No 3",
       "category": "plants",
       "images": [
-        "https://m.media-amazon.com/images/I/613Ym7NDU4L._SX466_.jpg"
+        "https://res.cloudinary.com/lmru/image/upload/f_auto,q_auto,w_278,h_278,c_pad,b_white,d_photoiscoming.png/LMCode/83248516_tmp.jpg"
       ],
       "price": 7000,
       "discount": 4000
@@ -261,7 +256,7 @@
       "name": "Indoor Plant No 4",
       "category": "plants",
       "images": [
-        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnKphQOC1_9t9GSq9fdIJTngSEI5VcAm-nyw&usqp=CAU"
+        "https://i.pinimg.com/736x/1c/76/de/1c76de4fe9e221063308fd65fb86f5be.jpg"
       ],
       "price": 7000,
       "discount": 4000
@@ -271,7 +266,7 @@
       "name": "Gift No 1",
       "category": "gifts",
       "images": [
-        "https://api.time.com/wp-content/uploads/2019/12/Teddy-Bear.jpg"
+        "https://www.dealproffsen.se/85436-home_default/tws-airpods-bluetooth-50-for-ios-android-med-laddbox.jpg"
       ],
       "price": 7000,
       "discount": 4000
@@ -281,7 +276,7 @@
       "name": "Gift No 2",
       "category": "gifts",
       "images": [
-        "https://i5.walmartimages.com/asr/14132443-17ab-49e1-98f7-16ad97706690_1.9417839dc6954ccf0ebd8ee60b72e79a.jpeg"
+        "https://giftline.ru/sites/default/files/styles/278x400/public/images/gifts/z53308_11_tif_1000x1000.jpg?itok=2BeFlafh"
       ],
       "price": 7000,
       "discount": 4000
@@ -291,7 +286,7 @@
       "name": "Gift No 3",
       "category": "gifts",
       "images": [
-        "https://www.buildabear.com/dw/image/v2/BBNG_PRD/on/demandware.static/-/Sites-buildabear-master/default/dwdac83d3c/24663x.jpg?sw=600&sh=600&sm=fit&q=70"
+        "https://giftline.ru/sites/default/files/styles/278x400/public/images/gifts/z36120_1_jpg_1000x1000.jpg?itok=El_LOWeX"
       ],
       "price": 7000,
       "discount": 4000
@@ -301,7 +296,7 @@
       "name": "Gift No 4",
       "category": "gifts",
       "images": [
-        "https://image.made-in-china.com/44f3j00pVATkuoqfJry/0cm-Super-Cute-Teddy-Bear-Plush-Toys-Doll-Lovely-Couple-Bear-Stuffed-Animal-Christmas-Birthday-Gifts-Toy.jpg"
+        "https://www.morelega.cz/img/p/8/9/8/5/8985-home_default.jpg"
       ],
       "price": 7000,
       "discount": 4000
@@ -311,7 +306,7 @@
       "name": "Service No 1",
       "category": "services",
       "images": [
-        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxPLBsW9p-5_SMwYqMkylnp1E6spNSN1mRUQ&usqp=CAU"
+        "https://77.img.avito.st/image/1/1.8CjHSLa5XMHd7_LHqyOqUEzrWst5R1pvdetexXvpVsM.16r8pXsvTZXg50DSm9V0z88EO01F54hvh6MwtDGkHwE"
       ],
       "price": 74000,
       "discount": 47000
@@ -321,7 +316,7 @@
       "name": "Service No 2",
       "category": "services",
       "images": [
-        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_9mucRom4OtbFGM1OWilJraZaGjfX5ybK9A&usqp=CAU"
+        "https://upload2.schoolrm.ru/resize_cache/1480459/8ed064df876a70500529f81175718de8/iblock/988/98867af3e901d8803f322c6edb596cc7/e9f9e630be4cb701c8419646fb99b1f3.jpg"
       ],
       "price": 74000,
       "discount": 47000
@@ -331,7 +326,7 @@
       "name": "Service No 3",
       "category": "services",
       "images": [
-        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScfomdwzqJh65RB7OP4cN96LWgpD4Ex8J0MA&usqp=CAU"
+        "https://i.pinimg.com/originals/29/d7/f8/29d7f852be562ff89b8c35167132141d.jpg"
       ],
       "price": 74000,
       "discount": 47000
@@ -341,7 +336,7 @@
       "name": "Service No 4",
       "category": "services",
       "images": [
-        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTv1FJ2nCHLw6SW3_xJuZvjUj7PdfM450gVw&usqp=CAU"
+        "https://avatars.mds.yandex.net/i?id=6304bab98d4b87c80cb5a4ba025df22d-3699222-images-thumbs&n=13"
       ],
       "price": 74000,
       "discount": 47000
@@ -351,7 +346,7 @@
       "name": "Accessories No 1",
       "category": "accessories",
       "images": [
-        "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/MHLM3?wid=2000&hei=2000&fmt=jpeg&qlt=95&.v=1623348211000"
+        "https://avatars.mds.yandex.net/i?id=15dcfb2df485391f2d2b0e8f76fdc6bd-7045468-images-thumbs&n=13"
       ],
       "price": 30000,
       "discount": 22000
@@ -361,7 +356,7 @@
       "name": "Accessories No 2",
       "category": "accessories",
       "images": [
-        "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/MWVU2?wid=2000&hei=2000&fmt=jpeg&qlt=95&.v=1590688532000"
+        "https://www.libertygames.co.uk/images/desc/TVR%20Sports%20Wheel%20and%20Pedals.jpg"
       ],
       "price": 30000,
       "discount": 22000
@@ -371,7 +366,7 @@
       "name": "Accessories No 3",
       "category": "accessories",
       "images": [
-        "https://image.shopmoment.com/resizer?quality=75&width=600&image=https://image.shopmoment.com/general/iPh13_Moment_Black_1.jpg"
+        "https://smartikon.by/uploads/catalog-005.png"
       ],
       "price": 30000,
       "discount": 22000
@@ -381,7 +376,7 @@
       "name": "Accessories No 4",
       "category": "accessories",
       "images": [
-        "https://bellroy-product-images.imgix.net/advertising_shopping_feed_image/USD/PCAD-RAG-122/0?w=500&h=500&fit=clamp&crop=entropy&auto=format"
+        "https://avatars.mds.yandex.net/i?id=aa53cfc3917103f5fba56d67b4714d9a-5250851-images-thumbs&n=13"
       ],
       "price": 30000,
       "discount": 22000

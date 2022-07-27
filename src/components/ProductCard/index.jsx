@@ -15,7 +15,7 @@ const ProductCard = ({ className, data }) => {
     <img src={image} alt={data.name} className={classes['card__image']} />
     <h3 className={classes['card__title']}>{data.name}</h3>
     <p className={classes['card__price']}>{data.price} USD.
-      <span className={classes['card__discount']}>{data.discount} USD.</span>
+     {data.discount && <span className={classes['card__discount']}>{data.discount} USD.</span>} 
     </p>
     <button onClick={selectItem}
       className={classNames(
@@ -25,7 +25,7 @@ const ProductCard = ({ className, data }) => {
       {selected ? 'Added' : 'Add to cart'}
     </button>
     <button className={classes['card__like']}>
-    <FontAwesomeIcon icon={faHeartRegular}/>
+    <FontAwesomeIcon icon={selected ? faHeartSolid : faHeartRegular}/>
     </button>
   </div>
 }

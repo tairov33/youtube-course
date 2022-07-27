@@ -49,10 +49,6 @@
         color: $white;
         display: inline-block;
 
-        &:hover::after {
-            transform: scale(1);
-        }
-
         &::after {
             content: '';
             height: 2px;
@@ -64,5 +60,12 @@
             transform: scaleX(0);
             transform-origin: left;
         }
+        &:hover::after {
+            transform: scale(1);
+        }
+        &_active::after{
+            transform: scale(1);
+        }
+
     }
 }

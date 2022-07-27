@@ -1,6 +1,7 @@
 import React from 'react'
 import Container from '../../layout/Container'
 import classes from './Badge.module.scss'
+import bg from '../../images/fruit.png'
 
 const Badge = () => {
     return (
@@ -13,6 +14,7 @@ const Badge = () => {
                     <p className={classes['badge__text']}>
                         You can choose any products from our catalog and you can order them!
                     </p>
+                    <img className={classes['badge__bg']} src={bg} alt="backgroud" />
                 </div>
             </div>
         </Container>

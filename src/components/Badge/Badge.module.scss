@@ -1,9 +1,15 @@
 @import "../../theme.scss";
 
 .badge {
-
     margin-top: 25px;
     margin-bottom: 25px;
+
+    &__bg {
+        position: absolute;
+        top: 0;
+        right: 0;
+        width: 600px;
+    }
 
     &__wrapper {
         width: 100%;
@@ -21,6 +27,8 @@
         justify-content: center;
         flex-direction: column;
         padding: 50px;
+        position: relative;
+
     }
 
     &__title {
